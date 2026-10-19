@@ -1,2 +1,2 @@
-# responsive-QR-code-
-simple responsive QR code using HTML AND CSS
+# responsive-qr-code
+ A responsive QR code component built with HTML and CSS
